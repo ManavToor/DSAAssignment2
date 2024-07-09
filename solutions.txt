@@ -1,0 +1,828 @@
+Number of solutions: 92
+x x x x x x x Q
+x x x Q x x x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+
+x x x x x x x Q
+x x Q x x x x x
+Q x x x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x Q x x x
+x x x x x x Q x
+x x x Q x x x x
+
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x Q x x x x
+x x x x x Q x x
+
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x x x x Q x
+x x x x Q x x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+
+x x x x x x Q x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x Q x x x
+
+x x x x x x Q x
+x x x Q x x x x
+x Q x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+Q x x x x x x x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x x x x Q x
+x x Q x x x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+Q x x x x x x x
+x x x x x Q x x
+x x x Q x x x x
+
+x x x x x x Q x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x x x Q x x x
+x Q x x x x x x
+x x x Q x x x x
+
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+x x Q x x x x x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x x Q
+x x x x Q x x x
+
+x x x x x x Q x
+x Q x x x x x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x Q x x x
+
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x Q x x x x x
+
+x x x x x Q x x
+x x x Q x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+x x Q x x x x x
+
+x x x x x Q x x
+x x x Q x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x Q x x x
+x Q x x x x x x
+x x x x x x x Q
+
+x x x x x Q x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+
+x x x x x Q x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+
+x x x x x Q x x
+x x Q x x x x x
+x x x x x x Q x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+
+x x x x x Q x x
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+Q x x x x x x x
+x x x Q x x x x
+
+x x x x x Q x x
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x Q x x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x x Q x x x
+
+x x x x x Q x x
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x Q x
+
+x x x x x Q x x
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+
+x x x x x Q x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x Q x x x x x x
+x x x Q x x x x
+x x x x x x Q x
+
+x x x x x Q x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+
+x x x x x Q x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x Q x x x x x
+
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x x x Q x x x x
+
+x x x x x Q x x
+Q x x x x x x x
+x x x x Q x x x
+x Q x x x x x x
+x x x x x x x Q
+x x Q x x x x x
+x x x x x x Q x
+x x x Q x x x x
+
+x x x x Q x x x
+x x x x x x x Q
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+x x Q x x x x x
+
+x x x x Q x x x
+x x x x x x x Q
+x x x Q x x x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+
+x x x x Q x x x
+x x x x x x Q x
+x x x Q x x x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x Q x x x x x x
+
+x x x x Q x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x Q x x x x
+
+x x x x Q x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+x x Q x x x x x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x x Q
+
+x x x x Q x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x Q x x x x
+x x x x x x x Q
+Q x x x x x x x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x Q x x x x x
+
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x x Q x x x x
+x Q x x x x x x
+
+x x x x Q x x x
+x x Q x x x x x
+x x x x x x x Q
+x x x Q x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x x x Q x x
+x Q x x x x x x
+
+x x x x Q x x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x x Q x x x x
+
+x x x x Q x x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+x x x x x x Q x
+
+x x x x Q x x x
+x Q x x x x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x x Q x x x
+x Q x x x x x x
+x x x x x Q x x
+Q x x x x x x x
+x x x x x x Q x
+x x x Q x x x x
+x x x x x x x Q
+x x Q x x x x x
+
+x x x x Q x x x
+x Q x x x x x x
+x x x Q x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x x x Q
+x x x x x Q x x
+Q x x x x x x x
+
+x x x x Q x x x
+x Q x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+
+x x x x Q x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x Q x x x x
+
+x x x x Q x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x x Q x x x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+
+x x x Q x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+
+x x x Q x x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x x Q x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+x x Q x x x x x
+
+x x x Q x x x x
+x x x x x x x Q
+Q x x x x x x x
+x x Q x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+
+x x x Q x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x Q x x x x x
+Q x x x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+
+x x x Q x x x x
+x x x x x x Q x
+x x x x Q x x x
+x Q x x x x x x
+x x x x x Q x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x x x Q
+
+x x x Q x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+Q x x x x x x x
+x x x x x Q x x
+
+x x x Q x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x Q x x x x x x
+x x x x x Q x x
+x x Q x x x x x
+
+x x x Q x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x Q x x x x x x
+
+x x x Q x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x Q x x x
+
+x x x Q x x x x
+x x x x x Q x x
+Q x x x x x x x
+x x x x Q x x x
+x Q x x x x x x
+x x x x x x x Q
+x x Q x x x x x
+x x x x x x Q x
+
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x Q x
+
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x Q x x
+
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x Q x x x x x
+
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x x x Q x x x
+Q x x x x x x x
+
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x Q x x
+x x x x x x x Q
+Q x x x x x x x
+x x x x Q x x x
+
+x x x Q x x x x
+x Q x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x x x x x Q x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x x Q x
+
+x x x Q x x x x
+Q x x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x x x x x Q x x
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+
+x x x Q x x x x
+Q x x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x Q x x
+
+x x Q x x x x x
+x x x x x x x Q
+x x x Q x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x Q x x x
+
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x Q x x x
+
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+
+x x Q x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x x x x x x x Q
+Q x x x x x x x
+x x x x Q x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x Q x x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x x x x x x x Q
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x Q x
+x x x x Q x x x
+x Q x x x x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x x Q x x x
+x x x x x x Q x
+x Q x x x x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x Q x x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x x Q
+x x x x Q x x x
+
+x x Q x x x x x
+x x x x x Q x x
+x Q x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x x x x Q x
+x x x Q x x x x
+
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x x x Q x x
+
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x x Q x x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+
+x x Q x x x x x
+x x x x Q x x x
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x x Q x x x x
+x x x x x x Q x
+Q x x x x x x x
+
+x x Q x x x x x
+x x x x Q x x x
+x Q x x x x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x x x x Q x
+x x x Q x x x x
+x x x x x Q x x
+
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+
+x Q x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+Q x x x x x x x
+x x Q x x x x x
+x x x x Q x x x
+x x x x x x Q x
+x x x Q x x x x
+
+x Q x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x x x x x x Q
+Q x x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+x x Q x x x x x
+
+x Q x x x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x x x Q x x x
+Q x x x x x x x
+x x x Q x x x x
+
+x Q x x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x Q x x x x x
+Q x x x x x x x
+x x x Q x x x x
+x x x x x x Q x
+x x x x Q x x x
+
+x Q x x x x x x
+x x x x x Q x x
+Q x x x x x x x
+x x x x x x Q x
+x x x Q x x x x
+x x x x x x x Q
+x x Q x x x x x
+x x x x Q x x x
+
+x Q x x x x x x
+x x x x Q x x x
+x x x x x x Q x
+x x x Q x x x x
+Q x x x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x Q x x x x x
+
+x Q x x x x x x
+x x x x Q x x x
+x x x x x x Q x
+Q x x x x x x x
+x x Q x x x x x
+x x x x x x x Q
+x x x x x Q x x
+x x x Q x x x x
+
+x Q x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x Q x x x x x
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+
+Q x x x x x x x
+x x x x x x Q x
+x x x x Q x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x Q x x x x
+x x x x x Q x x
+x x Q x x x x x
+
+Q x x x x x x x
+x x x x x x Q x
+x x x Q x x x x
+x x x x x Q x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+x x Q x x x x x
+
+Q x x x x x x x
+x x x x x Q x x
+x x x x x x x Q
+x x Q x x x x x
+x x x x x x Q x
+x x x Q x x x x
+x Q x x x x x x
+x x x x Q x x x
+
+Q x x x x x x x
+x x x x Q x x x
+x x x x x x x Q
+x x x x x Q x x
+x x Q x x x x x
+x x x x x x Q x
+x Q x x x x x x
+x x x Q x x x x
