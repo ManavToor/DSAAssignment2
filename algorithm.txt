@@ -1,0 +1,40 @@
+Algorithm: Back Tracking
+
+// Uses backtracking to solve n-queens problem
+// Begin by defining size of board
+int n = 8;
+
+// Create stack for holding each State
+// A state is just a vector which holds the positions of each queen
+stack<State> stack;
+State initialState; // 0 queens
+// A board object is an array which takes in a State
+// It places a queen at each location and returns all available remaining spaces
+Board board{initialState, n};
+
+// Add all possible locations for queen on empty board
+// Will only return valid spaces in first row (since in each valid solution there will be one queen per row) to
+// optimize algorithm by preventing multiples of same solution obtained from different paths
+vector<State> spaces = board.openSpaces();
+for (const auto & space : spaces) {
+    stack.push(space);
+}
+
+// Vector to hold found solutions
+vector<Board> solution;
+
+while (stack.size() > 0) {
+    // Creates new board with State at top of stack
+    Board newBoard{stack.top(), n};
+    stack.pop();
+
+    if (newBoard.num_queens == n) {
+        solution.push_back(newBoard);
+    } else {
+        // Appends all possible next locations to stack
+        for (const auto & space : newBoard.openSpaces()) {
+            stack.push(space);
+        }
+    }
+
+}
